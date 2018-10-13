@@ -1,0 +1,1 @@
+﻿Sample application and presentation repo:https://github.com/Catalysts/cat-boot-structurizr-sampleOther mentioned repos during discussion:https://github.com/MaibornWolff/domainchoreograph
