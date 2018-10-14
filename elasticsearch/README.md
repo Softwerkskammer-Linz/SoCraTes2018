@@ -46,5 +46,8 @@ Caution, there is a huge change in parent/child between ES5 and ES6 due to [type
 * Write your java integration tests with elastic easily with [embedded elastic](https://github.com/allegro/embedded-elasticsearch)
 * [Elastic in docker](https://www.elastic.co/guide/en/elasticsearch/reference/current/docker.html)
 
+## Text Classification
+[Text Classification made easy with Elasticsearch](https://www.elastic.co/blog/text-classification-made-easy-with-elasticsearch) based on the [More like this Query](https://www.elastic.co/guide/en/elasticsearch/reference/6.4/query-dsl-mlt-query.html)
+
 ## Ask me anything
 I'll be more than happy to answer your questions regarding Elasticsearch. Ask me on [twitter.com/tdvorak](https://twitter.com/tdvorak) or todvora@gmail.com. Thanks! 
